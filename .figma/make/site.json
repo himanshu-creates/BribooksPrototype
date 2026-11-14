@@ -1,0 +1,10 @@
+{
+  "description": "Helps schools register for the National Young Authors' Fair and guides users through the registration process.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
